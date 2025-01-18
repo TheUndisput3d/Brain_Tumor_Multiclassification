@@ -1,7 +1,7 @@
 # Brain Tumor Multiclassification App
 
 ## Overview
-This project implements a **Brain Tumor Classification System** using a mobile app interface, powered by **Flutter** as the frontend and **Django** as the backend. The model leverages a **Convolutional Neural Network (CNN)**, specifically **VGG-16**, with a **Softmax** activation function for multi-class classification of brain tumors. The app is designed to classify MRI images into four categories:
+This project implements a **Brain Tumor Classification System** using a mobile app interface, powered by **Flutter** as the frontend and **Django** as the backend. The model leverages a **Convolutional Neural Network (CNN)**,  with a **Softmax** activation function for multi-class classification of brain tumors. The app is designed to classify MRI images into four categories:
 - **Pituitary**
 - **Glioma**
 - **Meningioma**
