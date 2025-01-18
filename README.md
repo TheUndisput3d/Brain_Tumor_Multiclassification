@@ -12,7 +12,7 @@ The goal of this project is to provide a user-friendly mobile app that can assis
 ## Features
 - **Mobile App Interface**: Built with Flutter, enabling cross-platform use on Android and iOS.
 - **Backend API**: Developed with Django, handling model inference requests from the mobile app.
-- **Deep Learning Model**: CNN-based architecture with VGG-16 and Softmax for multi-class classification.
+- **Deep Learning Model**: CNN-based architecture with Softmax activation for multi-class classification.
 - **Real-Time Inference**: Classify brain tumor images in real-time via the mobile app.
 - **Image Preprocessing**: Handles input image normalization and augmentation for improved accuracy.
 
